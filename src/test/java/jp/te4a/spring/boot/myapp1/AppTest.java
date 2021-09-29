@@ -1,6 +1,8 @@
 package jp.te4a.spring.boot.myapp1;
 
 import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.assertEquals;
+
 
 import org.junit.Test;
 
